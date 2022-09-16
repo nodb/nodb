@@ -1,15 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Noh%20Da%20Bin&fontSize=90&fontColor=363636)
 
-<h2 align="center">👋 Welcome! 👋</h2>
-<h3 align="center">I'm Noh Da-Bin, a growing developer 🍀</h3>
-
+<h3 align="center">👋 Welcome! 👋</h3>
+<h4 align="center">I'm Noh Da-Bin, a growing developer 🍀</h4>
+<br>
 <p align="center">
-☆ Seoul National University of Science and Technology<br>
-☆ Endless Creation 29th
+· Seoul National University of Science and Technology<br>
+· Endless Creation 29th
 </p>
 <br><br>
 
-<h2 align="center">⚒️ My Tech Stack ⚒️</h2>
+<h3 align="center">☁️ Portfolio List ☁️</h3>
+<p align="center">💗💛💙💚💜</p>
+<p align="center">
+<a href="https://nodb.github.io/"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://nodb.github.io/"/></a>
+<a href="https://www.instagram.com/dabinnoh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dabinnoh/"/></a>
+</p>
+<br><br>
+
+<h3 align="center">⚒️ My Tech Stack ⚒️</h3>
 <p align="center">Techs that I've used at least once</p>
 <p align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -27,13 +35,4 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
-</p>
-<br><br>
-
-<h2 align="center">☁️ Portfolio List ☁️</h2>
-<p align="center">💗💛💙💚💜</p>
-<p align="center">
-[<img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>](https://nodb.github.io/)
-<br>
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>](https://www.instagram.com/dabinnoh/)
 </p>
