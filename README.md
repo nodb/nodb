@@ -4,7 +4,7 @@
 <h4>I'm Noh Da-Bin, a growing developer 🍀</h4>
 🎓 Seoul National University of Science and Technology<br>
 🔎 Endless Creation 29th
-<br><br>
+<br><br><br>
 </div>
 
 <div align="center">
