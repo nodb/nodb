@@ -6,8 +6,12 @@
 <p align="center">
 · Seoul National University of Science and Technology<br>
 · Endless Creation 29th
+<br>
+<br>
+<br>
+<img src="/profile_img.jpg" alt="profile_img.jpg" width="400px"/>
 </p>
-<br><br>
+<br>
 
 <h3 align="center">☁️ Portfolio List ☁️</h3>
 <p align="center">💗💛💙💚💜</p>
