@@ -3,8 +3,9 @@
 <h2>👋 Noh DB 👋</h2>
 <h4>I'm Noh Da-Bin, a growing developer 🍀</h4>
 🎓 Seoul National University of Science and Technology<br>
-🔎 Endless Creation 29th
-<br><br><br>
+🔎 Endless Creation 29th<br>
+⚡ Network Leader
+<br><br>
 </div>
 
 <div align="center">
@@ -27,7 +28,7 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
-<br>
+<br><br>
 </div>
 
 <div align="center">
@@ -37,7 +38,7 @@
 <img width="385px" align="right" src="https://github-readme-stats.vercel.app/api?username=nodb&show_icons=true" />
 </picture>
 <h3>☁️ Portfolio List ☁️</h3>
-<a href="https://nodb.github.io/"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://nodb.github.io/"/></a>
+<a href="https://devlogs.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://devlogs.tistory.com/"/></a>
 <a href="https://www.instagram.com/dabinnoh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dabinnoh/"/></a>
 <br>
 💗💛💙💚💜
