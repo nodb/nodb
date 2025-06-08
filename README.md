@@ -142,7 +142,7 @@ K-pop 아이돌 팬들을 위한 굿즈 중고거래 플랫폼 │ 개인 프로
 삼성청년SW·AI아카데미(SSAFY) │ 2025.01 ~
 
 ## Certifications ⚒️
-
+SQLD   
 정보처리기사  
 컴퓨터활용능력 1급  
 OPIc IM2
