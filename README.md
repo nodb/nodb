@@ -193,6 +193,6 @@ SQLD
 컴퓨터활용능력 1급  
 OPIc IM2
 
-## Algorithm.
+## Algorithm 👾
 
 <img width="385px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nodb"/>
