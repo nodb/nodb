@@ -137,6 +137,28 @@ K-pop 아이돌 팬들을 위한 굿즈 중고거래 플랫폼 │ 개인 프로
 > </div>
 > </details>
 
+### 2048 DQN
+Deep Q-Network(DQN)을 적용한 2048 게임 │ 개인 프로젝트
+
+> 기간 - 2023.03 ~ 2023.06  
+> 역할 - AI  
+> 기술 - Python, OpenAI Gym, Keras, TensorFlow, Matplotlib, CUDA, cuDNN, Jupyter  
+> GitHub - https://github.com/nodb/2048DQN
+> <details>
+> <summary>프로젝트 상세</summary>
+> <div markdown="1">
+> 
+> - OpenAI Gym 인터페이스를 사용하여 2048 게임을 구현
+> - 딥러닝 알고리즘 DQN 적용을 위해 상태, 행동, 보상을 정의
+> - 로그 정규화, 원핫 인코딩으로 신경망 입력 전처리하여 게임을 학습 형태로 변환
+> - Keras의 Sequential API를 사용하여 신경망 모델 정의
+> - keras-rl 라이브러리를 사용하여 DQN 에이전트 구현
+> - DQN 신경망을 사용하여 최적의 정책을 학습
+> - 학습 후 에이전트의 성능을 평가
+> 
+> </div>
+> </details>
+
 ## Education 🎓
 
 서울과학기술대학교 컴퓨터공학과 학사 │ 2019.03 ~ 2025.02  
