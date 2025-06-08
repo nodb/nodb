@@ -13,6 +13,7 @@ Front-End
 
 - HTML/CSS/JavaScript : 반응형 웹, 웹 표준 및 접근성 준수, 모듈화된 컴포넌트 기반 UI 구현
 - React : 비즈니스 로직 처리, 컴포넌트 기반 UI 개발, 상태관리(Redux), TypeScript 기반 개발
+- Vue.js : Vuex 기반 상태관리, Kakao Map API 연동, 컴포넌트 기반 SPA 구현, Axios를 통한 REST API 연동  
 - Flutter : Dart 언어 기반의 크로스 플랫폼 앱 개발, 상태관리(Provider), 모바일 UI/UX 구성
 
 AI
