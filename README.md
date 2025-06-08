@@ -29,7 +29,6 @@ ETC
 
 ### treaXure
 서울 명소 기반 보물찾기 미션 플랫폼 │ 팀 프로젝트
-
 > 기간 - 2024.04 ~ 2024.06  
 > 역할 - Back-End, Front-End, UI/UX  
 > 기술 - Java, Spring Boot, JPA, MySQL, Vue.js, Kakao Map API, JWT, AWS (EC2, S3, RDS)  
@@ -50,7 +49,7 @@ ETC
 > 
 > </div>
 > </details>
-
+![image](https://github.com/user-attachments/assets/ca2990ca-d366-4435-9715-7fb3eeac02dc)
 
 ### 최애마켓
 K-pop 아이돌 팬들을 위한 굿즈 중고거래 플랫폼 │ 개인 프로젝트
@@ -74,6 +73,7 @@ K-pop 아이돌 팬들을 위한 굿즈 중고거래 플랫폼 │ 개인 프로
 > 
 > </div>
 > </details>
+![image](https://github.com/user-attachments/assets/9485cbac-d9da-4788-91b8-bcc127e08004)
 
 ### Project UNO
 멀티플레이가 가능한 UNO 보드게임 │ 팀 프로젝트
@@ -96,6 +96,7 @@ K-pop 아이돌 팬들을 위한 굿즈 중고거래 플랫폼 │ 개인 프로
 > 
 > </div>
 > </details>
+![image](https://github.com/user-attachments/assets/e3da5c23-fb8a-4173-ac02-056fc52d306b)
 
 ### AR Room Simulator
 가구 시뮬레이션을 위한 유니티 기반 증강현실 애플리케이션 │ 개인 프로젝트
@@ -114,6 +115,8 @@ K-pop 아이돌 팬들을 위한 굿즈 중고거래 플랫폼 │ 개인 프로
 > 
 > </div>
 > </details>
+![image](https://github.com/user-attachments/assets/456291e7-a3f7-4602-9fd5-4c577d6531cf)
+
 
 ### DeokmingBot
 디스코드 애니메이션 추천 봇 │ 개인 프로젝트
@@ -133,6 +136,7 @@ K-pop 아이돌 팬들을 위한 굿즈 중고거래 플랫폼 │ 개인 프로
 > 
 > </div>
 > </details>
+![image](https://github.com/user-attachments/assets/d3beee81-1fe8-4ac6-bc3c-37bce63d74e5)
 
 ### 2048 DQN
 Deep Q-Network(DQN)을 적용한 2048 게임 │ 개인 프로젝트
@@ -154,6 +158,7 @@ Deep Q-Network(DQN)을 적용한 2048 게임 │ 개인 프로젝트
 > 
 > </div>
 > </details>
+![image](https://github.com/user-attachments/assets/24939fda-0593-4bb7-9a91-c75f1d86b5d7)
 
 ### DistortionCorrection
 카메라 캘리브레이션 및 렌즈 왜곡 보정 프로그램 │ 개인 프로젝트
@@ -175,6 +180,7 @@ Deep Q-Network(DQN)을 적용한 2048 게임 │ 개인 프로젝트
 > 
 > </div>
 > </details>
+![image](https://github.com/user-attachments/assets/3e91f1ac-43b3-46a7-b077-91d1743f057b)
 
 ## Education 🎓
 
