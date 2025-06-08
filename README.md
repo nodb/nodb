@@ -1,47 +1,152 @@
-<div align="center">
-<img width="385px" align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nodb"/>
-<h2>👋 Noh DB 👋</h2>
-<h4>I'm Noh Da-Bin, a growing developer 🍀</h4>
-🎓 Seoul National University of Science and Technology<br>
-🔎 Endless Creation 29th<br>
-⚡ Network Leader
-<br><br>
-</div>
+# Noh DB 🍀
+어디서든 성장하는 Back-End 주니어 개발자
 
-<div align="center">
-<img width=385px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodb&exclude_repo=nodb,nodb.github.io&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
-<h3>⚒️ My Tech Stack ⚒️</h3>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/ C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
-<br><br><br><br><br><br>
-</div>
+## Skills ☁️
 
-<div align="center">
-<picture>
-<source srcset="https://github-readme-stats.vercel.app/api?username=nodb&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-<source srcset="https://github-readme-stats.vercel.app/api?username=nodb&show_icons=true&theme=dark" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-<img width="385px" align="right" src="https://github-readme-stats.vercel.app/api?username=nodb&show_icons=true" />
-</picture>
-<h3>☁️ Portfolio List ☁️</h3>
-<a href="https://devlogs.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://devlogs.tistory.com/"/></a>
-<a href="https://www.instagram.com/dabinnoh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dabinnoh/"/></a>
-<br>
-💗💛💙💚💜
-<br><br>
-<a href="https://hits.seeyoufarm.com"><img width="170" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnodb%2Fhit-counter&count_bg=%23FFB69F&title_bg=%23FFB69F&icon=riotgames.svg&icon_color=%23FFFFFF&title=ㅤ&edge_flat=true"/></a>
-</div>
+Back-End
+
+- Java : OOP, JPA 기반 ORM, 예외 처리 및 디자인 패턴 적용, 테스트 코드 작성
+- Spring Boot : RESTful API 개발, JWT 인증/인가, Swagger/OpenAPI 문서화, Security 필터 체인 구성
+- MySQL : RDB 설계, 인덱싱 및 성능 최적화, JPA NativeQuery 및 쿼리 튜닝
+
+Front-End
+
+- HTML/CSS/JavaScript : 반응형 웹, 웹 표준 및 접근성 준수, 모듈화된 컴포넌트 기반 UI 구현
+- React : 비즈니스 로직 처리, 컴포넌트 기반 UI 개발, 상태관리(Redux), TypeScript 기반 개발
+- Flutter : Dart 언어 기반의 크로스 플랫폼 앱 개발, 상태관리(Provider), 모바일 UI/UX 구성
+
+AI
+
+- Python : 머신러닝(Keras, Scikit-learn, TensorFlow), 컴퓨터 비전(OpenCV), 자연어처리(NLTK, KoNLPy), 데이터 전처리 및 분석(Pandas, NumPy)
+
+ETC
+
+- Unity : C# 기반 3D 오브젝트 구현, AR 애플리케이션 개발(AR Foundation)
+- Figma : 와이어프레임 및 UI 디자인, 프로토타이핑, 디자이너-개발자 협업
+
+## Projects ✨
+
+### treaXure
+서울 명소 기반 보물찾기 미션 플랫폼 │ 팀 프로젝트
+
+> 기간 - 2024.04 ~ 2024.06  
+> 역할 - Back-End, Front-End, UI/UX  
+> 기술 - Java, Spring Boot, JPA, MySQL, Vue.js, Kakao Map API, JWT, AWS (EC2, S3, RDS)  
+> GitHub FE - https://github.com/lets-go-trip/treaXure-frontend  
+> GitHub BE - https://github.com/lets-go-trip/treaXure-backend
+> <details>
+> <summary>프로젝트 상세</summary>
+> <div markdown="1">
+> 
+> - 서울 주요 명소를 탐험하며 미션을 수행하고 인증 게시물을 업로드하는 게임형 서비스 기획
+> - Vue.js 기반 반응형 UI 구성 및 Kakao Map API를 이용한 동적 마커 렌더링 구현
+> - JWT 인증, Kakao/Naver OAuth2 로그인 기능 구현
+> - 게시물 좋아요, 댓글, 유사도 점수 기반 추천 기능 등 사용자 상호작용 기능 개발
+> - 미션, 장소, 게시글, 방문기록, 좋아요 등 주요 도메인 설계 및 REST API 문서화 (Swagger)
+> - 게시물 유사도 비교를 위한 AI 서버 연동 및 유사도 기반 점수화 로직 처리
+> - AWS EC2에 백엔드 배포, S3를 통한 이미지 업로드, RDS로 DB 운영
+> - 프로젝트 ERD 및 API 명세서 작성, 팀 내 Git Flow 적용 및 코드 리뷰 주도
+> 
+> </div>
+> </details>
+
+
+### 최애마켓
+K-pop 아이돌 팬들을 위한 굿즈 중고거래 플랫폼 │ 개인 프로젝트
+
+> 기간 - 2024.03 ~ 2024.12  
+> 역할 - Back-End, Front-End, UI/UX  
+> 기술 - MySQL, Spring Boot, Java, React, TypeScript, AWS EC2  
+> GitHub FE - https://github.com/ChoiaeMarket/ChoiaeMarket_Web  
+> GitHub BE - https://github.com/ChoiaeMarket/ChoiaeMarket_Server
+> <details>
+> <summary>프로젝트 상세</summary>
+> <div markdown="1">
+> 
+> - 초기 기능 정의 및 화면 기획 진행
+> - Figma를 이용하여 UI/UX 디자인
+> - 데이터베이스 테이블 ERD 설계(상품 및 사용자 정보를 저장)
+> - MySQL을 이용하여 데이터베이스 구현
+> - 조회, 등록, 수정, 관리 등 중고거래에 필요한 REST API 설계 및 Notion에 명세서 정리
+> - Spring Boot에서 CRUD 개발
+> - React에서 Request & Response 개발
+> - AWS EC2로 서비스 배포
+> 
+> </div>
+> </details>
+
+### Project UNO
+멀티플레이가 가능한 UNO 보드게임 │ 팀 프로젝트
+
+> 기간 - 2023.03 ~ 2023.05  
+> 역할 - Team Reader, Socket Develop Part  
+> 기술 - Python, WebSocket  
+> GitHub - https://github.com/Seoultech-Software-Engineering/Project_UNO
+> <details>
+> <summary>프로젝트 상세</summary>
+> <div markdown="1">
+> 
+> - 팀장으로 전체적인 회의 리드 및 문서 작업 담당
+> - 협업에 앞서 코딩&커밋 컨벤션 정의초기 기능 정의 및 화면 기획 진행
+> - 주 2회 페어 프로그래밍으로 작업 및 Wiki에 미팅 로그, 백로그 작성
+> - Python으로 게임 기능 구현
+> - TCP/IP 소켓 통신을 통해 멀티프로세스로 멀티플레이 기능 구현, 업적 시스템 구현
+> - 테스트 커버리지 측정 및 리팩토링
+> - exe 실행 파일로 제작
+> 
+> </div>
+> </details>
+
+### AR Room Simulator
+가구 시뮬레이션을 위한 유니티 기반 증강현실 애플리케이션 │ 개인 프로젝트
+
+> 기간 - 2023.03 ~ 2023.05  
+> 역할 - Back-End, Front-End, UI/UX  
+> 기술 - Unity, C#, AR Foundation, Google ArCore XR  
+> GitHub - https://github.com/nodb/ARRoomSimulator
+> <details>
+> <summary>프로젝트 상세</summary>
+> <div markdown="1">
+> 
+> - AR Default Plane을 통해 현실 공간의 특징점을 토대로 공간 인식
+> - XR Origin을 통해 가상 세계에 랜더링된 AR 콘텐츠를 현실 좌표공간에 매핑
+> - 조작 패널을 제작해 터치와 스크롤 뷰를 통해 가상의 3D 객체를 AR 공간에서 조정
+> - 공간 인식, 객체 배치, 객체 선택, 객체 조작, 객체 가려짐 기능을 구현
+> 
+> </div>
+> </details>
+
+### DeokmingBot
+디스코드 애니메이션 추천 봇 │ 개인 프로젝트
+
+> 기간 - 2022.08 ~ 2022.12  
+> 역할 - Back-End, Front-End, UI/UX  
+> 기술 - Python, discord.py, py-cord  
+> GitHub - https://github.com/nodb/DeokmingBot
+> <details>
+> <summary>프로젝트 상세</summary>
+> <div markdown="1">
+> 
+> - discord.py를 통해 discord bot 활성화 파일을 작성
+> - 애니메이션 사이트인 라프텔 API를 통해 애니메이션 정보를 파싱할 수 있게 키 생성
+> - 정보를 입력하면 라프텔의 작품 API, 키워드 API, discover API, recommend API를 가져오게 구현
+> - Discord Bot API를 이용하여 원하는 기능에 각각의 명령어를 정의하여 할당
+> - Discord Bot에 명령어만으로 애니메이션 검색, 추천 등 다양한 기능을 제공
+> 
+> </div>
+> </details>
+
+## Education 🎓
+
+서울과학기술대학교 컴퓨터공학과 학사 │ 2019.03 ~ 2025.02  
+삼성청년SW·AI아카데미(SSAFY) │ 2025.01 ~
+
+## Certifications ⚒️
+
+정보처리기사  
+컴퓨터활용능력 1급  
+OPIc IM2
+
+## Algorithm.
+
+<img width="385px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nodb"/>
