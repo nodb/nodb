@@ -56,7 +56,6 @@ ETC
 K-pop 아이돌 팬들을 위한 굿즈 중고거래 플랫폼 │ 개인 프로젝트
 
 > 기간 - 2024.03 ~ 2024.12  
-> 역할 - Back-End, Front-End, UI/UX  
 > 기술 - MySQL, Spring Boot, Java, React, TypeScript, AWS EC2  
 > GitHub FE - https://github.com/ChoiaeMarket/ChoiaeMarket_Web  
 > GitHub BE - https://github.com/ChoiaeMarket/ChoiaeMarket_Server
@@ -102,7 +101,6 @@ K-pop 아이돌 팬들을 위한 굿즈 중고거래 플랫폼 │ 개인 프로
 가구 시뮬레이션을 위한 유니티 기반 증강현실 애플리케이션 │ 개인 프로젝트
 
 > 기간 - 2023.03 ~ 2023.05  
-> 역할 - Back-End, Front-End, UI/UX  
 > 기술 - Unity, C#, AR Foundation, Google ArCore XR  
 > GitHub - https://github.com/nodb/ARRoomSimulator
 > <details>
@@ -121,7 +119,6 @@ K-pop 아이돌 팬들을 위한 굿즈 중고거래 플랫폼 │ 개인 프로
 디스코드 애니메이션 추천 봇 │ 개인 프로젝트
 
 > 기간 - 2022.08 ~ 2022.12  
-> 역할 - Back-End, Front-End, UI/UX  
 > 기술 - Python, discord.py, py-cord  
 > GitHub - https://github.com/nodb/DeokmingBot
 > <details>
@@ -141,7 +138,6 @@ K-pop 아이돌 팬들을 위한 굿즈 중고거래 플랫폼 │ 개인 프로
 Deep Q-Network(DQN)을 적용한 2048 게임 │ 개인 프로젝트
 
 > 기간 - 2023.03 ~ 2023.06  
-> 역할 - AI  
 > 기술 - Python, OpenAI Gym, Keras, TensorFlow, Matplotlib, CUDA, cuDNN, Jupyter  
 > GitHub - https://github.com/nodb/2048DQN
 > <details>
@@ -155,6 +151,27 @@ Deep Q-Network(DQN)을 적용한 2048 게임 │ 개인 프로젝트
 > - keras-rl 라이브러리를 사용하여 DQN 에이전트 구현
 > - DQN 신경망을 사용하여 최적의 정책을 학습
 > - 학습 후 에이전트의 성능을 평가
+> 
+> </div>
+> </details>
+
+### DistortionCorrection
+카메라 캘리브레이션 및 렌즈 왜곡 보정 프로그램 │ 개인 프로젝트
+
+> 기간 - 2024.03 ~ 2023.05   
+> 기술 - Python, OpenCV   
+> GitHub - https://github.com/nodb/DistortionCorrection
+> <details>
+> <summary>프로젝트 상세</summary>
+> <div markdown="1">
+> 
+> - OpenCV 기반으로 카메라 렌즈의 왜곡을 교정하는 GUI 프로그램 구현
+> - 체커보드 패턴을 이용한 카메라 캘리브레이션 기능 구현 (이미지 3장 이상 필요)
+> - 캘리브레이션 수행 시 선택된 이미지 수, RMS 오차, 카메라 행렬(K), 왜곡 계수(k1~k5)를 콘솔에 출력
+> - 보정 모드에서는 Tab 키로 보정 적용 여부를 실시간 토글할 수 있으며, ESC 키로 종료 가능
+> - GUI 화면에 실시간으로 보정 전(original) / 보정 후(distorted correction) 결과를 비교 출력
+> - 사용자가 직접 캘리브레이션 이미지 선택 과정을 수행하며 직관적인 조작 경험 제공
+> - 갤럭시 S22U 카메라(0.6배율) 테스트 결과를 바탕으로 왜곡 보정 효과 검증
 > 
 > </div>
 > </details>
