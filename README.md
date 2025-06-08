@@ -28,7 +28,7 @@ ETC
 ## Projects ✨
 
 ### treaXure
-서울 명소 기반 보물찾기 미션 플랫폼 │ 팀 프로젝트
+서울 명소 기반 보물찾기 미션 플랫폼 │ 팀 프로젝트 (2인)
 > 기간 - 2024.04 ~ 2024.06  
 > 역할 - Back-End, Front-End, UI/UX  
 > 기술 - Java, Spring Boot, JPA, MySQL, Vue.js, Kakao Map API, JWT, AWS (EC2, S3, RDS)  
@@ -76,7 +76,7 @@ K-pop 아이돌 팬들을 위한 굿즈 중고거래 플랫폼 │ 개인 프로
 ![image](https://github.com/user-attachments/assets/9485cbac-d9da-4788-91b8-bcc127e08004)
 
 ### Project UNO
-멀티플레이가 가능한 UNO 보드게임 │ 팀 프로젝트
+멀티플레이가 가능한 UNO 보드게임 │ 팀 프로젝트 (4인)
 
 > 기간 - 2023.03 ~ 2023.05  
 > 역할 - Team Reader, Socket Develop Part  
