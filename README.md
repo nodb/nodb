@@ -46,7 +46,7 @@
 <p>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=%233776AB" alt="Python">
   &nbsp;&nbsp;&nbsp;
-  머신러닝(Keras, Scikit-learn, TensorFlow), 컴퓨터 비전(OpenCV), 자연어처리(NLTK), 데이터 전처리/분석(Pandas, NumPy)
+  머신러닝(Keras, Scikit-learn, TensorFlow), 컴퓨터 비전(OpenCV), 자연어처리(NLTK), 데이터 처리(Pandas, NumPy)
 </p>
 
 ### ETC
