@@ -2,62 +2,64 @@
 어디서든 성장하는 Back-End 주니어 개발자
 
 ## Skills ☁️
-
 ### Back-End
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></td>
-    <td>OOP, JPA 기반 ORM, 예외 처리 및 디자인 패턴 적용, 테스트 코드 작성</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"></td>
-    <td>RESTful API 개발, JWT 인증/인가, Swagger/OpenAPI 문서화, Security 필터 체인 구성</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
-    <td>RDB 설계, 인덱싱 및 성능 최적화, JPA NativeQuery 및 쿼리 튜닝</td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  &nbsp;&nbsp;&nbsp;
+  OOP, JPA 기반 ORM, 예외 처리 및 디자인 패턴 적용, 테스트 코드 작성
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  &nbsp;&nbsp;&nbsp;
+  RESTful API 개발, JWT 인증/인가, Swagger/OpenAPI 문서화, Security 필터 체인 구성
+</p>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  &nbsp;&nbsp;&nbsp;
+  RDB 설계, 인덱싱 및 성능 최적화, JPA NativeQuery 및 쿼리 튜닝
+</p>
 
 ### Front-End
-<table border="0">
-  <tr>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"></td>
-    <td>반응형 웹, 웹 표준 및 접근성 준수, 모듈화된 컴포넌트 기반 UI 구현</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"></td>
-    <td>비즈니스 로직 처리, 컴포넌트 기반 UI 개발, 상태관리(Redux), TypeScript 기반 개발</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"></td>
-    <td>Vuex 기반 상태관리, Kakao Map API 연동, 컴포넌트 기반 SPA 구현, Axios를 통한 REST API 연동</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&color=%2302569B" alt="Flutter"></td>
-    <td>Dart 언어 기반의 크로스 플랫폼 앱 개발, 상태관리(Provider), 모바일 UI/UX 구성</td>
-  </tr>
-</table>
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  &nbsp;&nbsp;&nbsp;
+  반응형 웹, 웹 표준 및 접근성 준수, 모듈화된 컴포넌트 기반 UI 구현
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  &nbsp;&nbsp;&nbsp;
+  비즈니스 로직 처리, 컴포넌트 기반 UI 개발, 상태관리(Redux), TypeScript 기반 개발
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+  &nbsp;&nbsp;&nbsp;
+  Vuex 기반 상태관리, Kakao Map API 연동, 컴포넌트 기반 SPA 구현, Axios를 통한 REST API 연동
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&color=%2302569B" alt="Flutter">
+  &nbsp;&nbsp;&nbsp;
+  Dart 언어 기반의 크로스 플랫폼 앱 개발, 상태관리(Provider), 모바일 UI/UX 구성
+</p>
 
 ### AI
-<table border="0">
-  <tr>
-    <td><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=%233776AB" alt="Python"></td>
-    <td>머신러닝(Keras, Scikit-learn, TensorFlow), 컴퓨터 비전(OpenCV), 자연어처리(NLTK, KoNLPy), 데이터 전처리 및 분석(Pandas, NumPy)</td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=%233776AB" alt="Python">
+  &nbsp;&nbsp;&nbsp;
+  머신러닝(Keras, Scikit-learn, TensorFlow), 컴퓨터 비전(OpenCV), 자연어처리(NLTK), 데이터 전처리/분석(Pandas, NumPy)
+</p>
 
 ### ETC
-<table border="0">
-  <tr>
-    <td><img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=white&color=%23002244" alt="Unity"></td>
-    <td>C# 기반 3D 오브젝트 구현, AR 애플리케이션 개발(AR Foundation)</td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=%23F24E1E" alt="Figma"></td>
-    <td>와이어프레임 및 UI 디자인, 프로토타이핑, 디자이너-개발자 협업</td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=white&color=%23002244" alt="Unity">
+  &nbsp;&nbsp;&nbsp;
+  C# 기반 3D 오브젝트 구현, AR 애플리케이션 개발(AR Foundation)
+</p>
+<p>
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=%23F24E1E" alt="Figma">
+  &nbsp;&nbsp;&nbsp;
+  와이어프레임 및 UI 디자인, 프로토타이핑, 디자이너-개발자 협업
+</p>
 
 ## Projects ✨
 
